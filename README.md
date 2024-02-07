@@ -1,7 +1,7 @@
 # Hi there, I'm Christine! 👋
 
 ## Bio 
-
+I am a seasoned software developer, specializing in app development. With expertise in JavaScript, React, and Python, I breathe life into digital creations. My passion lies in crafting seamless user experiences through captivating mockup designs using Figma. Welcome to my world of boundless innovation 🌏🗺⛰️
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ChristineNanu)
 
 ### Github Stats
