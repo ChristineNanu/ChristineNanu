@@ -4,14 +4,6 @@
 I am a seasoned software developer, specializing in app development. With expertise in JavaScript, React, and Python, I breathe life into digital creations. My passion lies in crafting seamless user experiences through captivating mockup designs using Figma. Welcome to my world of boundless innovation 🌏🗺⛰️
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ChristineNanu)
 
-### Github Stats
-
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=ChristineNanu&count_private=true&show_icons=true&theme=cobalt">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ChristineNanu&theme=gotham">
-</a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ChristineNanu&theme=radical&show_icons=true" alt="Github Stats"/>
-
 ![Christine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChristineNanu&theme=gotham&layout=compact)
 <br/>
 
