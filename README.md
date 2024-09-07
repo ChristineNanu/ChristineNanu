@@ -4,7 +4,7 @@
 I specialize in transforming visionary concepts into groundbreaking applications. With a mastery of JavaScript, React, and Python, I design and develop solutions that are both functional and inspiring. My expertise extends to crafting visually stunning mockups with Figma, ensuring each project delivers not just performance but a memorable user experience. Passionate about pushing the envelope of technology, I’m driven to create solutions that redefine what's possible.🚀
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ChristineNanu)
 
-![Christine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChristineNanu&theme=gotham&layout=compact)
+
 <br/>
 
 # Tech Stacks
