@@ -1,7 +1,7 @@
 # Hi there, I'm Christine! 👋
 
 ## Bio 
-I specialize in transforming visionary concepts into groundbreaking applications. With a mastery of JavaScript, React, and Python, I design and develop solutions that are both functional and inspiring. My expertise extends to crafting visually stunning mockups with Figma, ensuring each project delivers not just performance but a memorable user experience. Passionate about pushing the envelope of technology, I’m driven to create solutions that redefine what's possible.🚀
+I specialize in transforming visionary concepts into groundbreaking applications. With a mastery of JavaScript, React,Flutter and Python, I design and develop solutions that are both functional and inspiring. My expertise extends to crafting visually stunning mockups with Figma, ensuring each project delivers not just performance but a memorable user experience. Passionate about pushing the envelope of technology, I’m driven to create solutions that redefine what's possible.🚀
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ChristineNanu)
 
 
