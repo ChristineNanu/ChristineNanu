@@ -1,30 +1,26 @@
 # Hi, I'm Christine Mundi 👋
 
-Full-stack Software Engineer building dependable digital products across mobile, web, APIs, and backend systems.
+Full-stack Software Engineer building scalable mobile and web products across frontends, backends, APIs, and payments.
 
-I work across the stack to design and ship features that are practical, scalable, and user-focused—from product interfaces and workflows to APIs, data layers, and integrations.
-
-## Core Skills
-
-- Flutter & Dart for mobile app development
-- React & TypeScript for modern web interfaces
-- Python (FastAPI, Flask) for backend systems
-- PostgreSQL & MongoDB for data-driven apps
-- REST APIs, webhooks, and system integrations
-- Payment flows and workflow tooling (M-PESA Daraja)
-- Git-based delivery, deployment, and production support
+I work mainly with:
+- Flutter & Dart
+- React & TypeScript
+- Python (FastAPI, Flask)
+- PostgreSQL, MongoDB
+- REST APIs & Webhooks
+- Payment integrations (M-PESA Daraja)
+- Git & deployment workflows
 
 ## About Me
 
-I’m a software engineer with hands-on experience building production solutions for education, operations, and marketplace use cases. I enjoy working across the product lifecycle—from designing interfaces and APIs to debugging production issues and improving reliability.
+I’m a software engineer with hands-on experience shipping production apps for education, operations, and marketplace use cases. I enjoy working across the stack—from UI implementation and API integration to debugging real-world production issues and improving reliability.
 
 I’m especially interested in:
-
-- Flutter product development
-- React + TypeScript UI systems
-- Python backend architecture
-- API design and integrations
-- Payment workflows and business process automation
+- Flutter app development
+- React + TypeScript product interfaces
+- Python backend systems
+- API design and integration
+- Payments, workflows, and user experience
 
 ## Tech Stack
 
@@ -43,22 +39,15 @@ I’m especially interested in:
 
 ## Experience Snapshot
 
-- Built Flutter apps for education workflows and multi-school operations
-- Delivered React + TypeScript interfaces aligned to product and design requirements
-- Developed Python APIs and integrated PostgreSQL/MongoDB data systems
-- Improved production reliability through bug fixing and system optimization
-- Worked on payment integrations, reporting, and business workflow tooling
+- Flutter app development for education workflows and multi-school operations
+- React + TypeScript frontend delivery against design specs
+- Python backend APIs and PostgreSQL/MongoDB integrations
+- Production bug fixing and API reliability improvements
+- Payment integrations, reporting, and business workflow tooling
 
 ## Current Focus
 
-- Building practical full-stack products with clean, maintainable architecture
-- Expanding my work in the Dart/Flutter ecosystem and open-source contributions
-- Exploring AI-assisted development and the future of developer workflows
+- Building practical full-stack products with clean architecture
+- Expanding into open-source contributions in the Dart/Flutter ecosystem
+- Exploring AI-assisted development and AI agent workflows
 
-## GitHub Activity
-
-[![Christine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristineNanu&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/ChristineNanu)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristineNanu&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ChristineNanu)
-
-> Building software that solves real problems, scales cleanly, and feels easy to use.
