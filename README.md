@@ -1,6 +1,6 @@
 # Hi, I'm Christine Nanu 👋
 
-Full-stack developer focused on building practical, user-friendly web applications that solve real problems. I enjoy turning ideas into clean, reliable software with strong attention to usability, maintainability, and product value—especially in healthcare and user-centered digital experiences.
+Full-stack developer focused on building practical, user-friendly web applications that solve real problems. I enjoy turning ideas into clean, reliable software with strong attention to usability, maintainability, and impact.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ChristineNanu" alt="Profile views" />
