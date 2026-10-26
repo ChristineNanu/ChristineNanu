@@ -24,10 +24,3 @@ I'm a full-stack software engineer building mobile and web products with Flutter
 - Exploring AI-assisted development and agent workflows.
 - Turning “this should be simple” into “it actually works.”
 
-## Jokes 😄
-
-- Why did the developer go broke? Because they used all their cache.
-- I told my code to be more efficient. Now it only runs when it feels like it.
-- Debugging: removing the needles from the haystack after you already built the haystack.
-- My favorite type of coffee? JavaScript. It really helps me with my syntax.
-- I wanted to be a musician, but I kept getting stuck on the commit key.
