@@ -1,8 +1,8 @@
 # Hi, I'm Christine Mundi 👋
 
-I'm a full-stack software engineer building mobile and web products with Flutter, React, and Python. I enjoy turning real operational needs into reliable workflows, from the user interface through APIs and payments.
+I'm a full-stack software engineer building mobile and web products with Flutter, React, and Python. I enjoy turning real operational needs into reliable workflows, from the user interface through the backend and data layer. 🚀
 
-## What I work with
+## What I work with 💻
 
 - **Mobile:** Flutter, Dart
 - **Frontend:** React, TypeScript
@@ -10,16 +10,24 @@ I'm a full-stack software engineer building mobile and web products with Flutter
 - **Data:** PostgreSQL, MongoDB
 - **Integrations:** REST APIs, webhooks, M-PESA Daraja
 
-
-## Experience
+## Experience 💼
 
 - Built Flutter apps for education and multi-school operations.
 - Developed React interfaces connected to Python APIs.
 - Worked on payment integrations, reporting, and business workflows.
 - Improved production reliability by debugging application and API issues.
 
-## Current focus
+## Current focus 🌱
 
 - Building practical full-stack products.
 - Contributing to the Dart and Flutter ecosystem.
 - Exploring AI-assisted development and agent workflows.
+- Turning “this should be simple” into “it actually works.”
+
+## Jokes 😄
+
+- Why did the developer go broke? Because they used all their cache.
+- I told my code to be more efficient. Now it only runs when it feels like it.
+- Debugging: removing the needles from the haystack after you already built the haystack.
+- My favorite type of coffee? JavaScript. It really helps me with my syntax.
+- I wanted to be a musician, but I kept getting stuck on the commit key.
