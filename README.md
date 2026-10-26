@@ -1,6 +1,6 @@
 # Hi, I'm Christine Nanu 👋
 
-Full-stack developer focused on building practical, user-friendly web applications that solve real problems. I enjoy turning ideas into clean, reliable software with strong attention to usability, maintainability, and impact.
+Full-stack developer focused on building practical, user-friendly web applications that solve real problems. I enjoy turning ideas into clean, reliable software with strong attention to usability, maintainability, and real-world impact.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ChristineNanu" alt="Profile views" />
@@ -64,36 +64,12 @@ Full-stack developer focused on building practical, user-friendly web applicatio
 
 <br/>
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristineNanu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristineNanu&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<br/>
-
 ## Current Focus
 
 - Building responsive, production-ready web interfaces
 - Designing clean backend logic for real-world business needs
 - Exploring ways to combine engineering best practices with user-focused design
 - Contributing to meaningful products that improve everyday experiences
-
-<br/>
-
-## Contact
-
-- GitHub: [@ChristineNanu](https://github.com/ChristineNanu)
-- LinkedIn: [Add your profile](#)
-- Email: [Add your email](#)
-
-<br/>
-
-> “Software should be useful, reliable, and enjoyable to use.”
 
 <br/>
 
