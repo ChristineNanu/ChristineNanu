@@ -1,68 +1,102 @@
-# Hi there, I'm Christine! 👋
+# Hi, I'm Christine Nanu 👋
 
-## Bio
+Full-stack developer focused on building practical, user-friendly web applications that solve real problems. I enjoy turning ideas into clean, reliable software with strong attention to usability, maintainability, and product value—especially in healthcare and user-centered digital experiences.
 
-Full-stack developer building practical web apps with Python, JavaScript, React, and Flask. I enjoy turning real-world problems into clean, user-friendly digital experiences, especially in healthcare and user-centered product development.
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=ChristineNanu)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChristineNanu" alt="Profile views" />
+</div>
 
 <br/>
 
-# Tech Stacks
+## About Me
 
-### Front-End Languages
+- 💻 Full-stack developer with experience in Python, JavaScript, React, Flask, and Django
+- 🧠 Interested in building scalable, maintainable systems and intuitive user experiences
+- 🌍 Passionate about solving real-world problems through thoughtful software engineering
+- 🏥 Particularly interested in healthcare-focused and impact-driven products
+
+<br/>
+
+## Tech Stack
+
+### Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
-### Front-End Frameworks and Libraries
+### Frontend
 
 <p align="left">
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-### Back-End Languages
+### Backend & Frameworks
 
 <p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-### Back-End Frameworks and Libraries
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
 
 ### Databases
 
 <p align="left">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-### Design
+### Tools & Workflow
 
 <p align="left">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 <br/>
 
-## ✨ About Me
+## GitHub Statistics
 
-I enjoy building practical software that makes people’s lives easier. My work blends clean frontend experiences with reliable backend logic, and I’m especially drawn to problems where technology can improve healthcare and everyday usability.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChristineNanu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristineNanu&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 <br/>
 
-## 😂 Random Joke
+## Current Focus
+
+- Building responsive, production-ready web interfaces
+- Designing clean backend logic for real-world business needs
+- Exploring ways to combine engineering best practices with user-focused design
+- Contributing to meaningful products that improve everyday experiences
+
+<br/>
+
+## Contact
+
+- GitHub: [@ChristineNanu](https://github.com/ChristineNanu)
+- LinkedIn: [Add your profile](#)
+- Email: [Add your email](#)
+
+<br/>
+
+> “Software should be useful, reliable, and enjoyable to use.”
+
+<br/>
+
+## Fun Fact
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
