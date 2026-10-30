@@ -6,7 +6,7 @@ I'm a full-stack software engineer building mobile and web products with Flutter
 
 - **Mobile:** Flutter, Dart
 - **Frontend:** React, TypeScript
-- **Backend:** Python, FastAPI, Flask
+- **Backend:** Python, FastAPI, Flask, PHP/Laravel
 - **Data:** PostgreSQL, MongoDB
 - **Integrations:** REST APIs, webhooks, M-PESA Daraja
 
